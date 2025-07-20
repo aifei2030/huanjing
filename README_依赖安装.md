@@ -1,8 +1,4 @@
-# CoreSky 项目依赖安装指南
-
 ## 📋 项目依赖
-
-`coresky_daily.py` 需要以下Python包：
 
 - **requests** - HTTP请求库
 - **pycryptodome** - 加密库（提供Crypto模块）
