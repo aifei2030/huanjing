@@ -1,0 +1,27 @@
+# CoreSky 项目依赖包
+# 自动生成于 2025年
+
+# HTTP请求库
+requests>=2.25.0
+
+# 加密库（提供Crypto模块）
+pycryptodome>=3.15.0
+
+# OCR验证码识别库
+ddddocr>=1.4.0
+
+# 以太坊账户管理
+eth-account>=0.8.0
+
+# Excel文件处理
+openpyxl>=3.0.0
+
+# 可选：Web3库（如果使用其他脚本）
+web3>=5.0.0
+
+# 可选：日志库
+loguru>=0.6.0
+
+# 可选：图像处理（如果使用OCR相关功能）
+Pillow>=8.0.0
+matplotlib>=3.3.0 
